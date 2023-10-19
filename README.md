@@ -30,11 +30,11 @@ python app.py
 ```
 # Assuming your script is saved as app.py
 The Gradio interface will launch in your web browser. You can also access the interface at http://127.0.0.1:7860/.
-In the __"Job Description Summarizer"__ tab, paste a job description into the text box and click "Submit" to get a summarized version of the job description.
-In the __"CV ATS Rating"__ tab, paste the CV data into the text box and click "Submit" to get a rating and feedback based on the job description summary.
-In the __"Cover Letter Generator"__ tab, add additional information in the box if needed and click "Submit" to get a tailor made cover letter.
-In the __"Interview Q&A"__ tab, add additional information in the box if needed and click "Submit" to get a list of possible interview questions and answers based on the JD and CV.
-In the __"Suggested CV"__ tab, add additional information in the box if needed and click "Submit" to get a list of suggested items to tailor the CV to the job description.
+- In the __"Job Description Summarizer"__ tab, paste a job description into the text box and click "Submit" to get a summarized version of the job description.
+- In the __"CV ATS Rating"__ tab, paste the CV data into the text box and click "Submit" to get a rating and feedback based on the job description summary.
+- In the __"Cover Letter Generator"__ tab, add additional information in the box if needed and click "Submit" to get a tailor made cover letter.
+- In the __"Interview Q&A"__ tab, add additional information in the box if needed and click "Submit" to get a list of possible interview questions and answers based on the JD and CV.
+- In the __"Suggested CV"__ tab, add additional information in the box if needed and click "Submit" to get a list of suggested items to tailor the CV to the job description.
 
 Customization
 
