@@ -4,6 +4,7 @@
 # BespokeCV
 Discover "Bespoke CV": your tool for tailored job applications. Match your CV to job descriptions, generate cover letters, get ATS scores, and prep with top 10 interview questions plus tailored answers. Analyze CV strengths and weaknesses against job roles and receive recommendations to enhance your application.
 
+See the working version here: [jmesplana-bespokecv.hf.space/](https://jmesplana-bespokecv.hf.space/)
 ## Features
 
 - **Job Description Summarization**: Summarizes job descriptions into job nature, responsibilities, and requirements.
