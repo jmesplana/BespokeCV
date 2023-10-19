@@ -5,6 +5,9 @@ Discover "Bespoke CV": your tool for tailored job applications. Match your CV to
 
 - Job Description Summarization: Summarizes job descriptions into job nature, responsibilities, and requirements.
 - CV Rating: Rates the compatibility of the CV with the job description, providing strengths, weaknesses, and recommendations to strengthen the CV.
+- Cover Letter Generator: Generates a cover letter according to the job description and data from the CV. It allows you to add additional information to focus on a particular skillset/experience to highlight in the cover letter.
+- Interview Q&A: Generates at least 10 questions and provides potential answers according to the JD and the CV
+- Suggested CV: Makes a suggestion on what to modify in the CV to strengthen the application score against an application tracking system (ATS).
 
 ## Setup and Installation
 
@@ -29,6 +32,10 @@ python app.py
 The Gradio interface will launch in your web browser. You can also access the interface at http://127.0.0.1:7860/.
 In the "Job Description Summarizer" tab, paste a job description into the text box and click "Submit" to get a summarized version of the job description.
 In the "CV ATS Rating" tab, paste the CV data into the text box and click "Submit" to get a rating and feedback based on the job description summary.
+In the "Cover Letter Generator" tab, add additional information in the box if needed and click "Submit" to get a tailor made cover letter.
+In the "Interview Q&A" tab, add additional information in the box if needed and click "Submit" to get a list of possible interview questions and answers based on the JD and CV.
+In the "Suggested CV" tab, add additional information in the box if needed and click "Submit" to get a list of suggested items to tailor the CV to the job description.
+
 Customization
 
 You can customize the behavior of the application by modifying the process_jd and cv_rating functions in the script.
